@@ -1,6 +1,8 @@
 <template>
   <div class="map">
     <div style="width:100%;height: 400px" ref="mapchart">echart</div>
+    <div style="width:100%;height: 400px" ref="mapchart">echart</div>
+    <div style="width:100%;height: 400px" ref="mapchart">echart</div>
   </div>
 </template>
 
